@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?><mdb:MD_Metadata xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/1.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/1.0" xmlns:esri="http://www.esri.com/metadata/" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mda="http://standards.iso.org/iso/19115/-3/mda/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:cat="http://standards.iso.org/iso/19115/-3/cat/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:t="http://www.esri.com/xslt/translator" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:dqc="http://standards.iso.org/iso/19157/-2/dqc/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:mdt="http://standards.iso.org/iso/19115/-3/mdt/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:srv="http://standards.iso.org/iso/19115/-3/srv/2.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:res="http://www.esri.com/metadata/res/" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/1.0">
+    <mdb:metadataIdentifier>
+        <mcc:MD_Identifier>
+            <mcc:code>
+                <gco:CharacterString>f0c19add-2fab-3225-884e-1ad47043eb27</gco:CharacterString>
+            </mcc:code>
+        </mcc:MD_Identifier>
+    </mdb:metadataIdentifier>
+    <mdb:defaultLocale>
+        <lan:PT_Locale>
+            <lan:language>
+                <lan:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">eng</lan:LanguageCode>
+            </lan:language>
+            <lan:country>
+                <lan:CountryCode codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA">CA</lan:CountryCode>
+            </lan:country>
+            <lan:characterEncoding>
+                <lan:MD_CharacterSetCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</lan:MD_CharacterSetCode>
+            </lan:characterEncoding>
+        </lan:PT_Locale>
+    </mdb:defaultLocale>
+    <mdb:metadataScope>
+        <mdb:MD_MetadataScope>
+            <mdb:resourceScope>
+                <mcc:MD_ScopeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</mcc:MD_ScopeCode>
+            </mdb:resourceScope>
+            <mdb:name>
+                <gco:CharacterString>dataset</gco:CharacterString>
+            </mdb:name>
+        </mdb:MD_MetadataScope>
+    </mdb:metadataScope>
+    <mdb:contact>
+        <cit:CI_Responsibility>
+            <cit:role>
+                <cit:CI_RoleCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</cit:CI_RoleCode>
+            </cit:role>
+            <cit:party>
+                <cit:CI_Organisation>
+                    <cit:name>
+                        <gco:CharacterString>City of Hamilton, Corporate Services, Information Technology, Business Applications, Spatial Solutions and Data Services</gco:CharacterString>
+                    </cit:name>
+                    <cit:contactInfo>
+                        <cit:CI_Contact>
+                            <cit:address>
+                                <cit:CI_Address>
+                                    <cit:electronicMailAddress>
+                                        <gco:CharacterString>gisservices@hamilton.ca</gco:CharacterString>
+                                    </cit:electronicMailAddress>
+                                </cit:CI_Address>
+                            </cit:address>
+                        </cit:CI_Contact>
+                    </cit:contactInfo>
+                </cit:CI_Organisation>
+            </cit:party>
+        </cit:CI_Responsibility>
+    </mdb:contact>
+    <mdb:dateInfo>
+        <cit:CI_Date>
+            <cit:date>
+                <gco:DateTime>2023-01-12</gco:DateTime>
+            </cit:date>
+            <cit:dateType>
+                <cit:CI_DateTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
+            </cit:dateType>
+        </cit:CI_Date>
+    </mdb:dateInfo>
+    <mdb:metadataStandard>
+        <cit:CI_Citation>
+            <cit:title>
+                <gco:CharacterString>ISO 19115-3 Geographic Information - Metadata - Part 1: Fundamentals</gco:CharacterString>
+            </cit:title>
+            <cit:edition>
+                <gco:CharacterString>2014</gco:CharacterString>
+            </cit:edition>
+        </cit:CI_Citation>
+    </mdb:metadataStandard>
+    <mdb:otherLocale>
+        <lan:PT_Locale>
+            <lan:language>
+                <lan:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">eng</lan:LanguageCode>
+            </lan:language>
+            <lan:country>
+                <lan:CountryCode codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA">CA</lan:CountryCode>
+            </lan:country>
+            <lan:characterEncoding>
+                <lan:MD_CharacterSetCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</lan:MD_CharacterSetCode>
+            </lan:characterEncoding>
+        </lan:PT_Locale>
+    </mdb:otherLocale>
+    <mdb:spatialRepresentationInfo>
+        <msr:MD_VectorSpatialRepresentation>
+            <msr:topologyLevel>
+                <msr:MD_TopologyLevelCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly">geometryOnly</msr:MD_TopologyLevelCode>
+            </msr:topologyLevel>
+            <msr:geometricObjects>
+                <msr:MD_GeometricObjects>
+                    <msr:geometricObjectType>
+                        <msr:MD_GeometricObjectTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_GeometricObjectTypeCode" codeListValue="curve">curve</msr:MD_GeometricObjectTypeCode>
+                    </msr:geometricObjectType>
+                    <msr:geometricObjectCount>
+                        <gco:Integer>4520</gco:Integer>
+                    </msr:geometricObjectCount>
+                </msr:MD_GeometricObjects>
+            </msr:geometricObjects>
+        </msr:MD_VectorSpatialRepresentation>
+    </mdb:spatialRepresentationInfo>
+    <mdb:referenceSystemInfo>
+        <mrs:MD_ReferenceSystem>
+            <mrs:referenceSystemIdentifier>
+                <mcc:MD_Identifier>
+                    <mcc:code>
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/26917</gco:CharacterString>
+                    </mcc:code>
+                    <mcc:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                    </mcc:codeSpace>
+                    <mcc:version>
+                        <gco:CharacterString>6.11(3.0.1)</gco:CharacterString>
+                    </mcc:version>
+                </mcc:MD_Identifier>
+            </mrs:referenceSystemIdentifier>
+        </mrs:MD_ReferenceSystem>
+    </mdb:referenceSystemInfo>
+    <mdb:identificationInfo>
+        <mri:MD_DataIdentification>
+            <mri:citation>
+                <cit:CI_Citation>
+                    <cit:title>
+                        <gco:CharacterString>GEODBA.BIKEWAYS</gco:CharacterString>
+                    </cit:title>
+                    <cit:alternateTitle>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </cit:alternateTitle>
+                    <cit:date>
+                        <cit:CI_Date>
+                            <cit:date>
+                                <gco:DateTime>2021-10-01T00:00:00</gco:DateTime>
+                            </cit:date>
+                            <cit:dateType>
+                                <cit:CI_DateTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
+                            </cit:dateType>
+                        </cit:CI_Date>
+                    </cit:date>
+                    <cit:date>
+                        <cit:CI_Date>
+                            <cit:date>
+                                <gco:DateTime>2022-12-31T00:00:00</gco:DateTime>
+                            </cit:date>
+                            <cit:dateType>
+                                <cit:CI_DateTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
+                            </cit:dateType>
+                        </cit:CI_Date>
+                    </cit:date>
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Organisation>
+                                    <cit:name>
+                                        <gco:CharacterString>City of Hamilton, Corporate Services, Information Technology, Business Applications, Spatial Solutions and Data Services</gco:CharacterString>
+                                    </cit:name>
+                                    <cit:contactInfo>
+                                        <cit:CI_Contact>
+                                            <cit:address>
+                                                <cit:CI_Address>
+                                                    <cit:electronicMailAddress>
+                                                        <gco:CharacterString>gisservices@hamilton.ca</gco:CharacterString>
+                                                    </cit:electronicMailAddress>
+                                                </cit:CI_Address>
+                                            </cit:address>
+                                        </cit:CI_Contact>
+                                    </cit:contactInfo>
+                                </cit:CI_Organisation>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    <cit:presentationForm>
+                        <cit:CI_PresentationFormCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_PresentationFormCode" codeListValue="mapDigital">mapDigital</cit:CI_PresentationFormCode>
+                    </cit:presentationForm>
+                    <cit:onlineResource>
+                        <cit:CI_OnlineResource>
+                            <cit:linkage>
+                                <gco:CharacterString>https://cohvpmdatap01.prod.hamilton.technology/geonetwork/srv/api/records/f0c19add-2fab-3225-884e-1ad47043eb27/attachments/GEODBA_BIKEWAYS_AttributeMetadata_20211219.xlsx</gco:CharacterString>
+                            </cit:linkage>
+                            <cit:protocol>
+                                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                            </cit:protocol>
+                            <cit:name>
+                                <gco:CharacterString>GEODBA_BIKEWAYS_AttributeMetadata_20211219.xlsx</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_OnlineResource>
+                    </cit:onlineResource>
+                    <cit:onlineResource>
+                        <cit:CI_OnlineResource>
+                            <cit:linkage>
+                                <gco:CharacterString>https://SpatialSolutions.maps.arcgis.com/sharing/rest/content/items/7d90015cdb864f938cd16ee8e7ea7330/data</gco:CharacterString>
+                            </cit:linkage>
+                            <cit:protocol gco:nilReason="missing"/>
+                            <cit:name>
+                                <gco:CharacterString>Metadata</gco:CharacterString>
+                            </cit:name>
+                            <cit:function>
+                                <cit:CI_OnLineFunctionCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</cit:CI_OnLineFunctionCode>
+                            </cit:function>
+                        </cit:CI_OnlineResource>
+                    </cit:onlineResource>
+                </cit:CI_Citation>
+            </mri:citation>
+            <mri:abstract>
+                <gco:CharacterString> Types include designated bike lanes, bicycle paths, bike routes (both cautionary un-signed and signed on-street) and paved shoulders.</gco:CharacterString>
+            </mri:abstract>
+            <mri:purpose>
+                <gco:CharacterString>Existing on-street bikeways in Hamilton. Includes proposed upgrades and infrastructure connections to neighbouring municipalities.</gco:CharacterString>
+            </mri:purpose>
+            <mri:status>
+                <mcc:MD_ProgressCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_ProgressCode" codeListValue="onGoing">onGoing</mcc:MD_ProgressCode>
+            </mri:status>
+            <mri:pointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_RoleCode" codeListValue="owner">owner</cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Individual>
+                            <cit:name>
+                                <gco:CharacterString>Danny Pimentel</gco:CharacterString>
+                            </cit:name>
+                            <cit:contactInfo>
+                                <cit:CI_Contact>
+                                    <cit:address>
+                                        <cit:CI_Address>
+                                            <cit:electronicMailAddress>
+                                                <gco:CharacterString>Danny.Pimentel@hamilton.ca</gco:CharacterString>
+                                            </cit:electronicMailAddress>
+                                        </cit:CI_Address>
+                                    </cit:address>
+                                </cit:CI_Contact>
+                            </cit:contactInfo>
+                        </cit:CI_Individual>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </mri:pointOfContact>
+            <mri:pointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_RoleCode" codeListValue="editor">editor</cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+                                <gco:CharacterString>City of Hamilton, Corporate Services, Information Technology, Business Applications, Spatial Solutions and Data Services</gco:CharacterString>
+                            </cit:name>
+                            <cit:contactInfo>
+                                <cit:CI_Contact>
+                                    <cit:address>
+                                        <cit:CI_Address>
+                                            <cit:electronicMailAddress>
+                                                <gco:CharacterString>gisservices@hamilton.ca</gco:CharacterString>
+                                            </cit:electronicMailAddress>
+                                        </cit:CI_Address>
+                                    </cit:address>
+                                </cit:CI_Contact>
+                            </cit:contactInfo>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </mri:pointOfContact>
+            <mri:spatialRepresentationType>
+                <mcc:MD_SpatialRepresentationTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</mcc:MD_SpatialRepresentationTypeCode>
+            </mri:spatialRepresentationType>
+            <mri:topicCategory>
+                <mri:MD_TopicCategoryCode>transportation</mri:MD_TopicCategoryCode>
+            </mri:topicCategory>
+            <mri:extent>
+                <gex:EX_Extent>
+                    <gex:description>
+                        <gco:CharacterString>City of Hamilton, with limited surround data from neighbouring municipalities for continuity</gco:CharacterString>
+                    </gex:description>
+                    <gex:geographicElement>
+                        <gex:EX_GeographicBoundingBox>
+                            <gex:extentTypeCode>
+                                <gco:Boolean>true</gco:Boolean>
+                            </gex:extentTypeCode>
+                            <gex:westBoundLongitude>
+                                <gco:Decimal>-80.249077</gco:Decimal>
+                            </gex:westBoundLongitude>
+                            <gex:eastBoundLongitude>
+                                <gco:Decimal>-79.552739</gco:Decimal>
+                            </gex:eastBoundLongitude>
+                            <gex:southBoundLatitude>
+                                <gco:Decimal>42.992372</gco:Decimal>
+                            </gex:southBoundLatitude>
+                            <gex:northBoundLatitude>
+                                <gco:Decimal>43.514695</gco:Decimal>
+                            </gex:northBoundLatitude>
+                        </gex:EX_GeographicBoundingBox>
+                    </gex:geographicElement>
+                </gex:EX_Extent>
+            </mri:extent>
+            <mri:resourceMaintenance>
+                <mmi:MD_MaintenanceInformation>
+                    <mmi:maintenanceAndUpdateFrequency>
+                        <mmi:MD_MaintenanceFrequencyCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
+                    </mmi:maintenanceAndUpdateFrequency>
+                </mmi:MD_MaintenanceInformation>
+            </mri:resourceMaintenance>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Downloadable Data</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Cycling</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bike</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle Lanes</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parks</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parking &amp; Transportation</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </mri:keyword>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Cycling</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bike</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle Lanes</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parks</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parking &amp; Transportation</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </mri:keyword>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Cycling</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bike</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle Lanes</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parks</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parking &amp; Transportation</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </mri:keyword>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Cycling</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bike</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle Lanes</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parks</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parking &amp; Transportation</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </mri:keyword>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Cycling</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bike</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle Lanes</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parks</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parking &amp; Transportation</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </mri:keyword>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Cycling</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bike</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle Lanes</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parks</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parking &amp; Transportation</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </mri:keyword>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:descriptiveKeywords>
+                <mri:MD_Keywords>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Cycling</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bike</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bicycle Lanes</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parks</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Parking &amp; Transportation</gco:CharacterString>
+                    </mri:keyword>
+                    <mri:keyword>
+                        <gco:CharacterString>Bikeways</gco:CharacterString>
+                    </mri:keyword>
+                </mri:MD_Keywords>
+            </mri:descriptiveKeywords>
+            <mri:resourceConstraints>
+                <mco:MD_Constraints>
+                    <mco:useLimitation>
+                        <gco:CharacterString>Open Data Licence Terms and Conditions</gco:CharacterString>
+                    </mco:useLimitation>
+                </mco:MD_Constraints>
+            </mri:resourceConstraints>
+            <mri:resourceConstraints>
+                <mco:MD_LegalConstraints>
+                    <mco:accessConstraints>
+                        <mco:MD_RestrictionCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_RestrictionCode" codeListValue="license">license</mco:MD_RestrictionCode>
+                    </mco:accessConstraints>
+                    <mco:useConstraints>
+                        <mco:MD_RestrictionCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_RestrictionCode" codeListValue="license">license</mco:MD_RestrictionCode>
+                    </mco:useConstraints>
+                    <mco:otherConstraints>
+                        <gco:CharacterString>Open Hamilton https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions</gco:CharacterString>
+                    </mco:otherConstraints>
+                </mco:MD_LegalConstraints>
+            </mri:resourceConstraints>
+            <mri:resourceConstraints>
+                <mco:MD_LegalConstraints>
+                    <mco:accessConstraints>
+                        <mco:MD_RestrictionCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</mco:MD_RestrictionCode>
+                    </mco:accessConstraints>
+                    <mco:otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </mco:otherConstraints>
+                </mco:MD_LegalConstraints>
+            </mri:resourceConstraints>
+            <mri:resourceConstraints>
+                <mco:MD_LegalConstraints>
+                    <mco:useConstraints>
+                        <mco:MD_RestrictionCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</mco:MD_RestrictionCode>
+                    </mco:useConstraints>
+                    <mco:otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </mco:otherConstraints>
+                </mco:MD_LegalConstraints>
+            </mri:resourceConstraints>
+            <mri:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">eng</lan:LanguageCode>
+                    </lan:language>
+                    <lan:country>
+                        <lan:CountryCode codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA">CA</lan:CountryCode>
+                    </lan:country>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </mri:defaultLocale>
+        </mri:MD_DataIdentification>
+    </mdb:identificationInfo>
+    <mdb:distributionInfo>
+        <mrd:MD_Distribution>
+            <mrd:distributionFormat>
+                <mrd:MD_Format>
+                    <mrd:formatSpecificationCitation>
+                        <cit:CI_Citation>
+                            <cit:title>
+                                <gco:CharacterString>FGDB/GDB</gco:CharacterString>
+                            </cit:title>
+                            <cit:edition>
+                                <gco:CharacterString>10.6.1</gco:CharacterString>
+                            </cit:edition>
+                        </cit:CI_Citation>
+                    </mrd:formatSpecificationCitation>
+                </mrd:MD_Format>
+            </mrd:distributionFormat>
+            <mrd:distributionFormat>
+                <mrd:MD_Format>
+                    <mrd:formatSpecificationCitation>
+                        <cit:CI_Citation>
+                            <cit:title>
+                                <gco:CharacterString>SHP</gco:CharacterString>
+                            </cit:title>
+                            <cit:edition>
+                                <gco:CharacterString>unknown</gco:CharacterString>
+                            </cit:edition>
+                        </cit:CI_Citation>
+                    </mrd:formatSpecificationCitation>
+                </mrd:MD_Format>
+            </mrd:distributionFormat>
+            <mrd:distributor>
+                <mrd:MD_Distributor>
+                    <mrd:distributorContact>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_RoleCode" codeListValue="distributor">distributor</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Organisation>
+                                    <cit:name>
+                                        <gco:CharacterString>City of Hamilton, Corporate Services, Information Technology, Business Applications, Spatial Solutions and Data Services</gco:CharacterString>
+                                    </cit:name>
+                                    <cit:contactInfo>
+                                        <cit:CI_Contact>
+                                            <cit:address>
+                                                <cit:CI_Address>
+                                                    <cit:electronicMailAddress>
+                                                        <gco:CharacterString>gisservices@hamilton.ca</gco:CharacterString>
+                                                    </cit:electronicMailAddress>
+                                                </cit:CI_Address>
+                                            </cit:address>
+                                        </cit:CI_Contact>
+                                    </cit:contactInfo>
+                                </cit:CI_Organisation>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </mrd:distributorContact>
+                </mrd:MD_Distributor>
+            </mrd:distributor>
+            <mrd:transferOptions>
+                <mrd:MD_DigitalTransferOptions>
+                    <mrd:onLine>
+                        <cit:CI_OnlineResource>
+                            <cit:linkage>
+                                <gco:CharacterString>https://cohvpmdatap01.prod.hamilton.technology/geonetwork/srv/api/records/f0c19add-2fab-3225-884e-1ad47043eb27/attachments/GEODBA_BIKEWAYS_AttributeMetadata_20211219.xlsx</gco:CharacterString>
+                            </cit:linkage>
+                            <cit:protocol>
+                                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                            </cit:protocol>
+                            <cit:name>
+                                <gco:CharacterString>GEODBA_BIKEWAYS_AttributeMetadata_20211219.xlsx</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_OnlineResource>
+                    </mrd:onLine>
+                    <mrd:onLine>
+                        <cit:CI_OnlineResource>
+                            <cit:linkage>
+                                <gco:CharacterString>https://SpatialSolutions.maps.arcgis.com/sharing/rest/content/items/7d90015cdb864f938cd16ee8e7ea7330/data</gco:CharacterString>
+                            </cit:linkage>
+                            <cit:protocol gco:nilReason="missing"/>
+                            <cit:name>
+                                <gco:CharacterString>Metadata</gco:CharacterString>
+                            </cit:name>
+                            <cit:function>
+                                <cit:CI_OnLineFunctionCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</cit:CI_OnLineFunctionCode>
+                            </cit:function>
+                        </cit:CI_OnlineResource>
+                    </mrd:onLine>
+                </mrd:MD_DigitalTransferOptions>
+            </mrd:transferOptions>
+        </mrd:MD_Distribution>
+    </mdb:distributionInfo>
+    <mdb:metadataMaintenance>
+        <mmi:MD_MaintenanceInformation>
+            <mmi:maintenanceAndUpdateFrequency>
+                <mmi:MD_MaintenanceFrequencyCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
+            </mmi:maintenanceAndUpdateFrequency>
+        </mmi:MD_MaintenanceInformation>
+    </mdb:metadataMaintenance>
+</mdb:MD_Metadata>
